@@ -29,7 +29,8 @@ android {
 }
 
 dependencies {
-
+    // Klip SDK
+    implementation 'com.klipwallet.app2app:klip-a2a-sdk-android_release_v2.0.0:2.0.0@aar'
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
